@@ -1,0 +1,7 @@
+Can we Overload static method ?
+Can we Overload final method ?
+Can we Overload main method ?
+Is it possible to have two methods in class with same method signature but different return types?
+//doesnot differentiate on the basis of return type	
+Can you override private methods in java ?
+what is static binding ?
